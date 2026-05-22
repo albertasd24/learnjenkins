@@ -1,0 +1,18 @@
+{
+  "name": "jenkins",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app/server.js",
+  "scripts": {
+    "start": "node app/server.js",
+    "test": "echo 'Tests exitosos'",
+    "build": "echo 'Build exitoso'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
